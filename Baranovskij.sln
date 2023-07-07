@@ -1,0 +1,417 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskOne", "TaskOne", "{09F6FDA9-45B8-483B-9CC6-212E8A2A3371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskOne\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{B9FFB71C-6325-4612-883A-C4E27ABB03F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskiy.FormingString", "TaskOne\Norbit.Crm.Baranovskiy.FormingString\Norbit.Crm.Baranovskiy.FormingString.csproj", "{2F77495E-0020-4AE1-8D79-C35823A4AF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.ValidationHelper", "TaskOne\Baranovskij.ValidationHelper\Baranovskij.ValidationHelper.csproj", "{8C53ADCC-AD04-4DF1-9803-7261CD57552C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskThree", "TaskThree", "{FDD1E09A-4930-44AE-BA1F-F5C06DE5C6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskThree\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.BodyIndex", "TaskThree\Norbit.Crm.Baranovskij.BodyIndex\Norbit.Crm.Baranovskij.BodyIndex.csproj", "{09007B2A-8CD7-4DA0-836A-877AD216F0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.InteractionWithArrays", "TaskThree\Norbit.Crm.Baranovskij.InteractionWithArrays\Norbit.Crm.Baranovskij.InteractionWithArrays.csproj", "{C3533D0B-D42F-4746-8788-0AA706C63AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.InteractionWithString", "TaskThree\Norbit.Crm.Baranovskij.InteractionWithString\Norbit.Crm.Baranovskij.InteractionWithString.csproj", "{6B71A149-0712-482F-BAD9-8E192512882D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFour", "TaskFour", "{784B2C1A-9D67-42CF-A3A0-22E74EAB6F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.WorkDate", "TaskFour\Norbit.Crm.Baranovskij.WorkDate\Norbit.Crm.Baranovskij.WorkDate.csproj", "{DA4A109F-8B91-4522-994D-25D3BB3C568D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFive", "TaskFive", "{D5A63434-55FE-4734-8363-96501769FC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskFive\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.Validation", "Baranovskij.Validation\Baranovskij.Validation.csproj", "{A9804287-0FF8-41B9-8605-4372D0457FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Math", "TaskFive\Norbit.Crm.Baranovskij.Math\Norbit.Crm.Baranovskij.Math.csproj", "{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Human", "TaskFive\Norbit.Crm.Baranovskij.Human\Norbit.Crm.Baranovskij.Human.csproj", "{A6426188-90CC-46AC-8757-CD4530C34275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Home", "TaskFive\Norbit.Crm.Baranovskij.Home\Norbit.Crm.Baranovskij.Home.csproj", "{0328C46A-D74F-444A-AA7A-32EA1416C534}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSix", "TaskSix", "{2E71D7EB-9BA4-4600-8733-FDED5FE43A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Sort", "TaskSix\Norbit.Crm.Baranovskij.Sort\Norbit.Crm.Baranovskij.Sort.csproj", "{2E33D0F1-9730-48D5-AF50-CAAFAB76F499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskSix\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{6D0689EA-F618-4832-BFDD-A61792E5FA17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSeven", "TaskSeven", "{8B57AE60-E81F-4B91-8D64-1B6E3B5D73DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskSeven\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{F8D9DCD7-C113-4612-BC86-1DD07C3C3369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.FrequencyWord", "TaskSeven\Norbit.Crm.Baranovskij.FrequencyWord\Norbit.Crm.Baranovskij.FrequencyWord.csproj", "{617833EA-156C-4E70-BC0C-ACD6EAE00224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.DynamicArray", "TaskSeven\Norbit.Crm.Baranovskij.DynamicArray\Norbit.Crm.Baranovskij.DynamicArray.csproj", "{86AE6075-C575-4D98-A7CE-2DAA791B5018}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskEight", "TaskEight", "{C993ACA0-2F80-40B8-B763-E8CCA4DA2B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Entity", "TaskEight\Norbit.Crm.Baranovskij.Entity\Norbit.Crm.Baranovskij.Entity.csproj", "{F375358D-8253-4FAE-B389-D2683FB1CA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskEight\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{C9F445BB-A55F-4947-91BD-9D6D738708D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF8FE7B6-7034-4C84-AA05-28D73597A9A9}"
+	ProjectSection(SolutionItems) = preProject
+		.tfignore = .tfignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskNine", "TaskNine", "{F9E28460-7B29-4B43-A63F-C31EC43D17E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskNine\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{F61FA43D-75FE-4345-AE7A-62564BC53B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Entity", "TaskNine\Norbit.Crm.Baranovskij.Entity\Norbit.Crm.Baranovskij.Entity.csproj", "{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskTen", "TaskTen", "{F9B5106A-0959-48B6-BD50-847390E1CAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Main", "TaskTen\Norbit.Crm.Baranovskij.Main\Norbit.Crm.Baranovskij.Main.csproj", "{74998A76-34E8-4E14-9080-06210EFA3C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Entity", "TaskTen\Norbit.Crm.Baranovskij.Entity\Norbit.Crm.Baranovskij.Entity.csproj", "{9BC3B2F6-2649-4F44-A446-7A5028ABC487}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskEleven", "TaskEleven", "{2D58DBEC-2F48-4E03-A190-C6087D873F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Baranovskij.Test", "TaskEleven\Norbit.Crm.Baranovskij.Test\Norbit.Crm.Baranovskij.Test.csproj", "{EF58EB69-5835-4F83-B479-8FC9F9626B89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskThirteen", "TaskThirteen", "{DAACC50A-4B5F-4D33-AF2E-8DA237192CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.Main", "TaskThirteen\Baranovskij.Main\Baranovskij.Main.csproj", "{41CF31DE-7C1F-45AE-803F-33E151A2C72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.Entity", "TaskThirteen\Baranovskij.Entity\Baranovskij.Entity.csproj", "{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.Repository", "TaskThirteen\Baranovskij.Repository\Baranovskij.Repository.csproj", "{C1DECA08-EB22-4C51-B46F-8F24E34DE328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.Service", "TaskThirteen\Baranovskij.Service\Baranovskij.Service.csproj", "{4893834E-BEAE-43C3-883B-5E22772B28D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFourteen", "TaskFourteen", "{AAD3D554-3734-443B-86C2-C5C5D0D959A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.WebApi", "TaskFourteen\Baranovskij.WebApi\Baranovskij.WebApi.csproj", "{F2967D48-E846-4770-9578-2DB96507F865}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFifteen", "TaskFifteen", "{FF1F4C1C-F593-4B9A-A99F-D0D7415F136C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.MVC", "TaskFifteen\Baranovskij.MVC\Baranovskij.MVC.csproj", "{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.ConsoleApplication", "TaskFifteen\Baranovskij.ConsoleApplication\Baranovskij.ConsoleApplication.csproj", "{84883590-B8A5-4F5B-A16C-3F94BBA77F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baranovskij.API", "TaskFifteen\Baranovskij.API\Baranovskij.API.csproj", "{9A0AC772-BE72-4AC6-8CEE-413409E674D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FFB71C-6325-4612-883A-C4E27ABB03F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FFB71C-6325-4612-883A-C4E27ABB03F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FFB71C-6325-4612-883A-C4E27ABB03F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FFB71C-6325-4612-883A-C4E27ABB03F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F77495E-0020-4AE1-8D79-C35823A4AF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F77495E-0020-4AE1-8D79-C35823A4AF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F77495E-0020-4AE1-8D79-C35823A4AF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F77495E-0020-4AE1-8D79-C35823A4AF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C53ADCC-AD04-4DF1-9803-7261CD57552C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C53ADCC-AD04-4DF1-9803-7261CD57552C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C53ADCC-AD04-4DF1-9803-7261CD57552C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C53ADCC-AD04-4DF1-9803-7261CD57552C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09007B2A-8CD7-4DA0-836A-877AD216F0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09007B2A-8CD7-4DA0-836A-877AD216F0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09007B2A-8CD7-4DA0-836A-877AD216F0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09007B2A-8CD7-4DA0-836A-877AD216F0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3533D0B-D42F-4746-8788-0AA706C63AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3533D0B-D42F-4746-8788-0AA706C63AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3533D0B-D42F-4746-8788-0AA706C63AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3533D0B-D42F-4746-8788-0AA706C63AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B71A149-0712-482F-BAD9-8E192512882D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B71A149-0712-482F-BAD9-8E192512882D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B71A149-0712-482F-BAD9-8E192512882D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B71A149-0712-482F-BAD9-8E192512882D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4A109F-8B91-4522-994D-25D3BB3C568D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4A109F-8B91-4522-994D-25D3BB3C568D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4A109F-8B91-4522-994D-25D3BB3C568D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4A109F-8B91-4522-994D-25D3BB3C568D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9804287-0FF8-41B9-8605-4372D0457FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9804287-0FF8-41B9-8605-4372D0457FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9804287-0FF8-41B9-8605-4372D0457FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9804287-0FF8-41B9-8605-4372D0457FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6426188-90CC-46AC-8757-CD4530C34275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6426188-90CC-46AC-8757-CD4530C34275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6426188-90CC-46AC-8757-CD4530C34275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6426188-90CC-46AC-8757-CD4530C34275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0328C46A-D74F-444A-AA7A-32EA1416C534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0328C46A-D74F-444A-AA7A-32EA1416C534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0328C46A-D74F-444A-AA7A-32EA1416C534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0328C46A-D74F-444A-AA7A-32EA1416C534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E33D0F1-9730-48D5-AF50-CAAFAB76F499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E33D0F1-9730-48D5-AF50-CAAFAB76F499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E33D0F1-9730-48D5-AF50-CAAFAB76F499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E33D0F1-9730-48D5-AF50-CAAFAB76F499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0689EA-F618-4832-BFDD-A61792E5FA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0689EA-F618-4832-BFDD-A61792E5FA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0689EA-F618-4832-BFDD-A61792E5FA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0689EA-F618-4832-BFDD-A61792E5FA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D9DCD7-C113-4612-BC86-1DD07C3C3369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D9DCD7-C113-4612-BC86-1DD07C3C3369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D9DCD7-C113-4612-BC86-1DD07C3C3369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D9DCD7-C113-4612-BC86-1DD07C3C3369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617833EA-156C-4E70-BC0C-ACD6EAE00224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617833EA-156C-4E70-BC0C-ACD6EAE00224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617833EA-156C-4E70-BC0C-ACD6EAE00224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617833EA-156C-4E70-BC0C-ACD6EAE00224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AE6075-C575-4D98-A7CE-2DAA791B5018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AE6075-C575-4D98-A7CE-2DAA791B5018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AE6075-C575-4D98-A7CE-2DAA791B5018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AE6075-C575-4D98-A7CE-2DAA791B5018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F375358D-8253-4FAE-B389-D2683FB1CA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F375358D-8253-4FAE-B389-D2683FB1CA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F375358D-8253-4FAE-B389-D2683FB1CA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F375358D-8253-4FAE-B389-D2683FB1CA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F445BB-A55F-4947-91BD-9D6D738708D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F445BB-A55F-4947-91BD-9D6D738708D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F445BB-A55F-4947-91BD-9D6D738708D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F445BB-A55F-4947-91BD-9D6D738708D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61FA43D-75FE-4345-AE7A-62564BC53B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61FA43D-75FE-4345-AE7A-62564BC53B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61FA43D-75FE-4345-AE7A-62564BC53B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61FA43D-75FE-4345-AE7A-62564BC53B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74998A76-34E8-4E14-9080-06210EFA3C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74998A76-34E8-4E14-9080-06210EFA3C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74998A76-34E8-4E14-9080-06210EFA3C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74998A76-34E8-4E14-9080-06210EFA3C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC3B2F6-2649-4F44-A446-7A5028ABC487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC3B2F6-2649-4F44-A446-7A5028ABC487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC3B2F6-2649-4F44-A446-7A5028ABC487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC3B2F6-2649-4F44-A446-7A5028ABC487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF58EB69-5835-4F83-B479-8FC9F9626B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF58EB69-5835-4F83-B479-8FC9F9626B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF58EB69-5835-4F83-B479-8FC9F9626B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF58EB69-5835-4F83-B479-8FC9F9626B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CF31DE-7C1F-45AE-803F-33E151A2C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CF31DE-7C1F-45AE-803F-33E151A2C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CF31DE-7C1F-45AE-803F-33E151A2C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CF31DE-7C1F-45AE-803F-33E151A2C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DECA08-EB22-4C51-B46F-8F24E34DE328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DECA08-EB22-4C51-B46F-8F24E34DE328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DECA08-EB22-4C51-B46F-8F24E34DE328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DECA08-EB22-4C51-B46F-8F24E34DE328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4893834E-BEAE-43C3-883B-5E22772B28D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4893834E-BEAE-43C3-883B-5E22772B28D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4893834E-BEAE-43C3-883B-5E22772B28D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4893834E-BEAE-43C3-883B-5E22772B28D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2967D48-E846-4770-9578-2DB96507F865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2967D48-E846-4770-9578-2DB96507F865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2967D48-E846-4770-9578-2DB96507F865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2967D48-E846-4770-9578-2DB96507F865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84883590-B8A5-4F5B-A16C-3F94BBA77F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84883590-B8A5-4F5B-A16C-3F94BBA77F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84883590-B8A5-4F5B-A16C-3F94BBA77F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84883590-B8A5-4F5B-A16C-3F94BBA77F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0AC772-BE72-4AC6-8CEE-413409E674D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0AC772-BE72-4AC6-8CEE-413409E674D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0AC772-BE72-4AC6-8CEE-413409E674D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0AC772-BE72-4AC6-8CEE-413409E674D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9FFB71C-6325-4612-883A-C4E27ABB03F4} = {09F6FDA9-45B8-483B-9CC6-212E8A2A3371}
+		{2F77495E-0020-4AE1-8D79-C35823A4AF17} = {09F6FDA9-45B8-483B-9CC6-212E8A2A3371}
+		{EE9CC4A6-44DC-48D7-B2F0-28AFEBB4374F} = {FDD1E09A-4930-44AE-BA1F-F5C06DE5C6F0}
+		{09007B2A-8CD7-4DA0-836A-877AD216F0EC} = {FDD1E09A-4930-44AE-BA1F-F5C06DE5C6F0}
+		{C3533D0B-D42F-4746-8788-0AA706C63AC5} = {FDD1E09A-4930-44AE-BA1F-F5C06DE5C6F0}
+		{6B71A149-0712-482F-BAD9-8E192512882D} = {FDD1E09A-4930-44AE-BA1F-F5C06DE5C6F0}
+		{DA4A109F-8B91-4522-994D-25D3BB3C568D} = {784B2C1A-9D67-42CF-A3A0-22E74EAB6F9A}
+		{A9EF86B3-BAE5-43E1-B3E4-F3045F664A1C} = {D5A63434-55FE-4734-8363-96501769FC9E}
+		{3C4CA3E1-1228-41B1-A20F-24346CF2E1B6} = {D5A63434-55FE-4734-8363-96501769FC9E}
+		{A6426188-90CC-46AC-8757-CD4530C34275} = {D5A63434-55FE-4734-8363-96501769FC9E}
+		{0328C46A-D74F-444A-AA7A-32EA1416C534} = {D5A63434-55FE-4734-8363-96501769FC9E}
+		{2E33D0F1-9730-48D5-AF50-CAAFAB76F499} = {2E71D7EB-9BA4-4600-8733-FDED5FE43A1D}
+		{6D0689EA-F618-4832-BFDD-A61792E5FA17} = {2E71D7EB-9BA4-4600-8733-FDED5FE43A1D}
+		{F8D9DCD7-C113-4612-BC86-1DD07C3C3369} = {8B57AE60-E81F-4B91-8D64-1B6E3B5D73DB}
+		{617833EA-156C-4E70-BC0C-ACD6EAE00224} = {8B57AE60-E81F-4B91-8D64-1B6E3B5D73DB}
+		{86AE6075-C575-4D98-A7CE-2DAA791B5018} = {8B57AE60-E81F-4B91-8D64-1B6E3B5D73DB}
+		{F375358D-8253-4FAE-B389-D2683FB1CA08} = {C993ACA0-2F80-40B8-B763-E8CCA4DA2B8D}
+		{C9F445BB-A55F-4947-91BD-9D6D738708D9} = {C993ACA0-2F80-40B8-B763-E8CCA4DA2B8D}
+		{F61FA43D-75FE-4345-AE7A-62564BC53B34} = {F9E28460-7B29-4B43-A63F-C31EC43D17E2}
+		{0A0DCCF1-10BC-4AA9-B16B-017955D5DF6D} = {F9E28460-7B29-4B43-A63F-C31EC43D17E2}
+		{74998A76-34E8-4E14-9080-06210EFA3C72} = {F9B5106A-0959-48B6-BD50-847390E1CAB6}
+		{9BC3B2F6-2649-4F44-A446-7A5028ABC487} = {F9B5106A-0959-48B6-BD50-847390E1CAB6}
+		{EF58EB69-5835-4F83-B479-8FC9F9626B89} = {2D58DBEC-2F48-4E03-A190-C6087D873F6E}
+		{41CF31DE-7C1F-45AE-803F-33E151A2C72D} = {DAACC50A-4B5F-4D33-AF2E-8DA237192CEF}
+		{29A1EDC5-9740-4E2C-8954-A2BE2EB79E30} = {DAACC50A-4B5F-4D33-AF2E-8DA237192CEF}
+		{C1DECA08-EB22-4C51-B46F-8F24E34DE328} = {DAACC50A-4B5F-4D33-AF2E-8DA237192CEF}
+		{4893834E-BEAE-43C3-883B-5E22772B28D3} = {DAACC50A-4B5F-4D33-AF2E-8DA237192CEF}
+		{F2967D48-E846-4770-9578-2DB96507F865} = {AAD3D554-3734-443B-86C2-C5C5D0D959A6}
+		{F0CC7C12-2D92-45FC-B973-8C5B787FE2D7} = {FF1F4C1C-F593-4B9A-A99F-D0D7415F136C}
+		{84883590-B8A5-4F5B-A16C-3F94BBA77F1C} = {FF1F4C1C-F593-4B9A-A99F-D0D7415F136C}
+		{9A0AC772-BE72-4AC6-8CEE-413409E674D6} = {FF1F4C1C-F593-4B9A-A99F-D0D7415F136C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF17108-2A54-488A-A13B-9928CDACD2F0}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 34
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.norbit.ru/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TaskOne\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName1 = Norbit.Crm.Baranovskij.sln
+		SccProjectName1 = TaskOne/Norbit.Crm.Baranovskij.Main
+		SccLocalPath1 = TaskOne\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName2 = TaskOne\\Norbit.Crm.Baranovskiy.FormingString\\Norbit.Crm.Baranovskiy.FormingString.csproj
+		SccProjectTopLevelParentUniqueName2 = Norbit.Crm.Baranovskij.sln
+		SccProjectName2 = TaskOne/Norbit.Crm.Baranovskiy.FormingString
+		SccLocalPath2 = TaskOne\\Norbit.Crm.Baranovskiy.FormingString
+		SccProjectUniqueName3 = TaskOne\\Norbit.Crm.Baranovskij.ValidationHelper\\Norbit.Crm.Baranovskij.ValidationHelper.csproj
+		SccProjectName3 = TaskOne/Norbit.Crm.Baranovskij.ValidationHelper
+		SccLocalPath3 = TaskOne\\Norbit.Crm.Baranovskij.ValidationHelper
+		SccProjectUniqueName4 = TaskThree\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName4 = Norbit.Crm.Baranovskij.sln
+		SccProjectName4 = TaskThree/Norbit.Crm.Baranovskij.Main
+		SccLocalPath4 = TaskThree\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName5 = TaskThree\\Norbit.Crm.Baranovskij.BodyIndex\\Norbit.Crm.Baranovskij.BodyIndex.csproj
+		SccProjectTopLevelParentUniqueName5 = Norbit.Crm.Baranovskij.sln
+		SccProjectName5 = TaskThree/Norbit.Crm.Baranovskij.BodyIndex
+		SccLocalPath5 = TaskThree\\Norbit.Crm.Baranovskij.BodyIndex
+		SccProjectUniqueName6 = TaskThree\\Norbit.Crm.Baranovskij.InteractionWithArrays\\Norbit.Crm.Baranovskij.InteractionWithArrays.csproj
+		SccProjectTopLevelParentUniqueName6 = Norbit.Crm.Baranovskij.sln
+		SccProjectName6 = TaskThree/Norbit.Crm.Baranovskij.InteractionWithArrays
+		SccLocalPath6 = TaskThree\\Norbit.Crm.Baranovskij.InteractionWithArrays
+		SccProjectUniqueName7 = TaskThree\\Norbit.Crm.Baranovskij.InteractionWithString\\Norbit.Crm.Baranovskij.InteractionWithString.csproj
+		SccProjectTopLevelParentUniqueName7 = Norbit.Crm.Baranovskij.sln
+		SccProjectName7 = TaskThree/Norbit.Crm.Baranovskij.InteractionWithString
+		SccLocalPath7 = TaskThree\\Norbit.Crm.Baranovskij.InteractionWithString
+		SccProjectUniqueName8 = TaskFour\\Norbit.Crm.Baranovskij.WorkDate\\Norbit.Crm.Baranovskij.WorkDate.csproj
+		SccProjectTopLevelParentUniqueName8 = Norbit.Crm.Baranovskij.sln
+		SccProjectName8 = TaskFour/Norbit.Crm.Baranovskij.WorkDate
+		SccLocalPath8 = TaskFour\\Norbit.Crm.Baranovskij.WorkDate
+		SccProjectUniqueName9 = TaskFive\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName9 = Norbit.Crm.Baranovskij.sln
+		SccProjectName9 = TaskFive/Norbit.Crm.Baranovskij.Main
+		SccLocalPath9 = TaskFive\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName10 = Norbit.Crm.Baranovskij.Validation\\Norbit.Crm.Baranovskij.Validation.csproj
+		SccProjectName10 = Norbit.Crm.Baranovskij.Validation
+		SccLocalPath10 = Norbit.Crm.Baranovskij.Validation
+		SccProjectUniqueName11 = TaskFive\\Norbit.Crm.Baranovskij.Math\\Norbit.Crm.Baranovskij.Math.csproj
+		SccProjectTopLevelParentUniqueName11 = Norbit.Crm.Baranovskij.sln
+		SccProjectName11 = TaskFive/Norbit.Crm.Baranovskij.Math
+		SccLocalPath11 = TaskFive\\Norbit.Crm.Baranovskij.Math
+		SccProjectUniqueName12 = TaskFive\\Norbit.Crm.Baranovskij.Human\\Norbit.Crm.Baranovskij.Human.csproj
+		SccProjectTopLevelParentUniqueName12 = Norbit.Crm.Baranovskij.sln
+		SccProjectName12 = TaskFive/Norbit.Crm.Baranovskij.Human
+		SccLocalPath12 = TaskFive\\Norbit.Crm.Baranovskij.Human
+		SccProjectUniqueName13 = TaskFive\\Norbit.Crm.Baranovskij.Home\\Norbit.Crm.Baranovskij.Home.csproj
+		SccProjectTopLevelParentUniqueName13 = Norbit.Crm.Baranovskij.sln
+		SccProjectName13 = TaskFive/Norbit.Crm.Baranovskij.Home
+		SccLocalPath13 = TaskFive\\Norbit.Crm.Baranovskij.Home
+		SccProjectUniqueName14 = TaskSix\\Norbit.Crm.Baranovskij.Sort\\Norbit.Crm.Baranovskij.Sort.csproj
+		SccProjectTopLevelParentUniqueName14 = Norbit.Crm.Baranovskij.sln
+		SccProjectName14 = TaskSix/Norbit.Crm.Baranovskij.Sort
+		SccLocalPath14 = TaskSix\\Norbit.Crm.Baranovskij.Sort
+		SccProjectUniqueName15 = TaskSix\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName15 = Norbit.Crm.Baranovskij.sln
+		SccProjectName15 = TaskSix/Norbit.Crm.Baranovskij.Main
+		SccLocalPath15 = TaskSix\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName16 = TaskSeven\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName16 = Norbit.Crm.Baranovskij.sln
+		SccProjectName16 = TaskSeven/Norbit.Crm.Baranovskij.Main
+		SccLocalPath16 = TaskSeven\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName17 = TaskSeven\\Norbit.Crm.Baranovskij.FrequencyWord\\Norbit.Crm.Baranovskij.FrequencyWord.csproj
+		SccProjectTopLevelParentUniqueName17 = Norbit.Crm.Baranovskij.sln
+		SccProjectName17 = TaskSeven/Norbit.Crm.Baranovskij.FrequencyWord
+		SccLocalPath17 = TaskSeven\\Norbit.Crm.Baranovskij.FrequencyWord
+		SccProjectUniqueName18 = TaskSeven\\Norbit.Crm.Baranovskij.DynamicArray\\Norbit.Crm.Baranovskij.DynamicArray.csproj
+		SccProjectTopLevelParentUniqueName18 = Norbit.Crm.Baranovskij.sln
+		SccProjectName18 = TaskSeven/Norbit.Crm.Baranovskij.DynamicArray
+		SccLocalPath18 = TaskSeven\\Norbit.Crm.Baranovskij.DynamicArray
+		SccProjectUniqueName19 = TaskEight\\Norbit.Crm.Baranovskij.Entity\\Norbit.Crm.Baranovskij.Entity.csproj
+		SccProjectTopLevelParentUniqueName19 = Norbit.Crm.Baranovskij.sln
+		SccProjectName19 = TaskEight/Norbit.Crm.Baranovskij.Entity
+		SccLocalPath19 = TaskEight\\Norbit.Crm.Baranovskij.Entity
+		SccProjectUniqueName20 = TaskEight\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName20 = Norbit.Crm.Baranovskij.sln
+		SccProjectName20 = TaskEight/Norbit.Crm.Baranovskij.Main
+		SccLocalPath20 = TaskEight\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName21 = TaskNine\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName21 = Norbit.Crm.Baranovskij.sln
+		SccProjectName21 = TaskNine/Norbit.Crm.Baranovskij.Main
+		SccLocalPath21 = TaskNine\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName22 = TaskNine\\Norbit.Crm.Baranovskij.Entity\\Norbit.Crm.Baranovskij.Entity.csproj
+		SccProjectTopLevelParentUniqueName22 = Norbit.Crm.Baranovskij.sln
+		SccProjectName22 = TaskNine/Norbit.Crm.Baranovskij.Entity
+		SccLocalPath22 = TaskNine\\Norbit.Crm.Baranovskij.Entity
+		SccProjectUniqueName23 = TaskTen\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName23 = Norbit.Crm.Baranovskij.sln
+		SccProjectName23 = TaskTen/Norbit.Crm.Baranovskij.Main
+		SccLocalPath23 = TaskTen\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName24 = TaskTen\\Norbit.Crm.Baranovskij.Entity\\Norbit.Crm.Baranovskij.Entity.csproj
+		SccProjectTopLevelParentUniqueName24 = Norbit.Crm.Baranovskij.sln
+		SccProjectName24 = TaskTen/Norbit.Crm.Baranovskij.Entity
+		SccLocalPath24 = TaskTen\\Norbit.Crm.Baranovskij.Entity
+		SccProjectUniqueName25 = TaskEleven\\Norbit.Crm.Baranovskij.Test\\Norbit.Crm.Baranovskij.Test.csproj
+		SccProjectTopLevelParentUniqueName25 = Norbit.Crm.Baranovskij.sln
+		SccProjectName25 = TaskEleven/Norbit.Crm.Baranovskij.Test
+		SccLocalPath25 = TaskEleven\\Norbit.Crm.Baranovskij.Test
+		SccProjectUniqueName26 = TaskThirteen\\Norbit.Crm.Baranovskij.Main\\Norbit.Crm.Baranovskij.Main.csproj
+		SccProjectTopLevelParentUniqueName26 = Norbit.Crm.Baranovskij.sln
+		SccProjectName26 = TaskThirteen/Norbit.Crm.Baranovskij.Main
+		SccLocalPath26 = TaskThirteen\\Norbit.Crm.Baranovskij.Main
+		SccProjectUniqueName27 = TaskThirteen\\Norbit.Crm.Baranovskij.Entity\\Norbit.Crm.Baranovskij.Entity.csproj
+		SccProjectTopLevelParentUniqueName27 = Norbit.Crm.Baranovskij.sln
+		SccProjectName27 = TaskThirteen/Norbit.Crm.Baranovskij.Entity
+		SccLocalPath27 = TaskThirteen\\Norbit.Crm.Baranovskij.Entity
+		SccProjectUniqueName28 = TaskThirteen\\Norbit.Crm.Baranovskij.Repository\\Norbit.Crm.Baranovskij.Repository.csproj
+		SccProjectTopLevelParentUniqueName28 = Norbit.Crm.Baranovskij.sln
+		SccProjectName28 = TaskThirteen/Norbit.Crm.Baranovskij.Repository
+		SccLocalPath28 = TaskThirteen\\Norbit.Crm.Baranovskij.Repository
+		SccProjectUniqueName29 = TaskThirteen\\Norbit.Crm.Baranovskij.Service\\Norbit.Crm.Baranovskij.Service.csproj
+		SccProjectTopLevelParentUniqueName29 = Norbit.Crm.Baranovskij.sln
+		SccProjectName29 = TaskThirteen/Norbit.Crm.Baranovskij.Service
+		SccLocalPath29 = TaskThirteen\\Norbit.Crm.Baranovskij.Service
+		SccProjectUniqueName30 = TaskFourteen\\Norbit.Crm.Baranovskij.WebApi\\Norbit.Crm.Baranovskij.WebApi.csproj
+		SccProjectTopLevelParentUniqueName30 = Norbit.Crm.Baranovskij.sln
+		SccProjectName30 = TaskFourteen/Norbit.Crm.Baranovskij.WebApi
+		SccLocalPath30 = TaskFourteen\\Norbit.Crm.Baranovskij.WebApi
+		SccProjectUniqueName31 = TaskFifteen\\Norbit.Crm.Baranovskij.MVC\\Norbit.Crm.Baranovskij.MVC.csproj
+		SccProjectTopLevelParentUniqueName31 = Norbit.Crm.Baranovskij.sln
+		SccProjectName31 = TaskFifteen/Norbit.Crm.Baranovskij.MVC
+		SccLocalPath31 = TaskFifteen\\Norbit.Crm.Baranovskij.MVC
+		SccProjectUniqueName32 = TaskFifteen\\Norbit.Crm.Baranovskij.ConsoleApplication\\Norbit.Crm.Baranovskij.ConsoleApplication.csproj
+		SccProjectTopLevelParentUniqueName32 = Norbit.Crm.Baranovskij.sln
+		SccProjectName32 = TaskFifteen/Norbit.Crm.Baranovskij.ConsoleApplication
+		SccLocalPath32 = TaskFifteen\\Norbit.Crm.Baranovskij.ConsoleApplication
+		SccProjectUniqueName33 = TaskFifteen\\Norbit.Crm.Baranovskij.API\\Norbit.Crm.Baranovskij.API.csproj
+		SccProjectTopLevelParentUniqueName33 = Norbit.Crm.Baranovskij.sln
+		SccProjectName33 = TaskFifteen/Norbit.Crm.Baranovskij.API
+		SccLocalPath33 = TaskFifteen\\Norbit.Crm.Baranovskij.API
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\Baranovskij.Entity.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\Baranovskij.Entity.pdb
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\linq2db.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\linq2db.xml
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\obj\Debug\Baranovskij.Entity.csproj.AssemblyReference.cache
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\obj\Debug\Baranovskij.Entity.csproj.CoreCompileInputs.cache
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\obj\Debug\Baranovskij.Entity.csproj.CopyComplete
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\obj\Debug\Baranovskij.Entity.dll
+C:\src\cs\Norbit.Crm.Baranovskij\TaskThirteen\Baranovskij.Entity\obj\Debug\Baranovskij.Entity.pdb

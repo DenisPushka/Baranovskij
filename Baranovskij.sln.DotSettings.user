@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8cae83f5_002Da440_002D40a0_002Dbf8a_002D3d2e88af24e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_Range_ReturnsCorrectItems" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Add_Range_ReturnsCorrectItems&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Remove_Item_ReturnsSuccessOperations&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Remove_Item_ReturnException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Insert_Item_ReturnSuccessOperations&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Insert_Null_ShouldException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Get_ReturnsItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Set_ShouldException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Set_Item_ReturnCorrectItems&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Get_ShouldException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EF58EB69-5835-4F83-B479-8FC9F9626B89::.NETFramework,Version=v4.7.2::Norbit.Crm.Baranovskij.UnitTestDynamicArray.Get_Items_ReturnCollections&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
